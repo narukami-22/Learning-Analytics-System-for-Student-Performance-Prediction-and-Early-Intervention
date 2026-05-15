@@ -1,0 +1,1045 @@
+student_id,Cluster,cluster_label
+1,1,Average
+2,1,Average
+3,0,At-Risk
+4,2,High Performer
+5,1,Average
+6,2,High Performer
+7,1,Average
+8,1,Average
+9,2,High Performer
+10,2,High Performer
+11,2,High Performer
+12,1,Average
+13,2,High Performer
+14,2,High Performer
+15,2,High Performer
+16,2,High Performer
+17,2,High Performer
+18,1,Average
+19,0,At-Risk
+20,2,High Performer
+21,2,High Performer
+22,2,High Performer
+23,2,High Performer
+24,2,High Performer
+25,2,High Performer
+26,0,At-Risk
+27,1,Average
+28,2,High Performer
+29,2,High Performer
+30,0,At-Risk
+31,2,High Performer
+32,2,High Performer
+33,2,High Performer
+34,1,Average
+35,2,High Performer
+36,1,Average
+37,2,High Performer
+38,2,High Performer
+39,2,High Performer
+40,1,Average
+41,1,Average
+42,2,High Performer
+43,2,High Performer
+44,1,Average
+45,0,At-Risk
+46,2,High Performer
+47,2,High Performer
+48,2,High Performer
+49,2,High Performer
+50,2,High Performer
+51,1,Average
+52,2,High Performer
+53,0,At-Risk
+54,2,High Performer
+55,0,At-Risk
+56,1,Average
+57,2,High Performer
+58,2,High Performer
+59,1,Average
+60,2,High Performer
+61,2,High Performer
+62,0,At-Risk
+63,1,Average
+64,2,High Performer
+65,2,High Performer
+66,2,High Performer
+67,2,High Performer
+68,1,Average
+69,1,Average
+70,2,High Performer
+71,2,High Performer
+72,2,High Performer
+73,0,At-Risk
+74,1,Average
+75,0,At-Risk
+76,2,High Performer
+77,1,Average
+78,1,Average
+79,0,At-Risk
+80,1,Average
+81,1,Average
+82,1,Average
+83,1,Average
+84,2,High Performer
+85,1,Average
+86,0,At-Risk
+87,1,Average
+88,2,High Performer
+89,1,Average
+90,0,At-Risk
+91,1,Average
+92,2,High Performer
+93,1,Average
+94,2,High Performer
+95,1,Average
+96,1,Average
+97,2,High Performer
+98,1,Average
+99,2,High Performer
+100,2,High Performer
+101,0,At-Risk
+102,2,High Performer
+103,2,High Performer
+104,1,Average
+105,2,High Performer
+106,1,Average
+107,1,Average
+108,2,High Performer
+109,2,High Performer
+110,2,High Performer
+111,2,High Performer
+112,1,Average
+113,1,Average
+114,2,High Performer
+115,1,Average
+116,2,High Performer
+117,2,High Performer
+118,2,High Performer
+119,0,At-Risk
+120,2,High Performer
+121,1,Average
+122,2,High Performer
+123,2,High Performer
+124,2,High Performer
+125,1,Average
+126,2,High Performer
+127,2,High Performer
+128,0,At-Risk
+129,0,At-Risk
+130,2,High Performer
+131,1,Average
+132,1,Average
+133,0,At-Risk
+134,2,High Performer
+135,1,Average
+136,2,High Performer
+137,0,At-Risk
+138,0,At-Risk
+139,1,Average
+140,2,High Performer
+141,2,High Performer
+142,0,At-Risk
+143,2,High Performer
+144,1,Average
+145,0,At-Risk
+146,1,Average
+147,1,Average
+148,1,Average
+149,0,At-Risk
+150,0,At-Risk
+151,0,At-Risk
+152,0,At-Risk
+153,1,Average
+154,0,At-Risk
+155,2,High Performer
+156,1,Average
+157,1,Average
+158,0,At-Risk
+159,1,Average
+160,0,At-Risk
+161,0,At-Risk
+162,0,At-Risk
+163,0,At-Risk
+164,0,At-Risk
+165,0,At-Risk
+166,1,Average
+167,0,At-Risk
+168,2,High Performer
+169,1,Average
+170,2,High Performer
+171,0,At-Risk
+172,1,Average
+173,2,High Performer
+174,0,At-Risk
+175,2,High Performer
+176,0,At-Risk
+177,2,High Performer
+178,0,At-Risk
+179,0,At-Risk
+180,2,High Performer
+181,2,High Performer
+182,2,High Performer
+183,2,High Performer
+184,0,At-Risk
+185,2,High Performer
+186,2,High Performer
+187,1,Average
+188,1,Average
+189,1,Average
+190,1,Average
+191,1,Average
+192,1,Average
+193,0,At-Risk
+194,0,At-Risk
+195,2,High Performer
+196,2,High Performer
+197,2,High Performer
+198,0,At-Risk
+199,2,High Performer
+200,2,High Performer
+201,2,High Performer
+202,1,Average
+203,1,Average
+204,1,Average
+205,1,Average
+206,0,At-Risk
+207,0,At-Risk
+208,2,High Performer
+209,1,Average
+210,2,High Performer
+211,1,Average
+212,0,At-Risk
+213,1,Average
+214,0,At-Risk
+215,1,Average
+216,2,High Performer
+217,0,At-Risk
+218,0,At-Risk
+219,1,Average
+220,1,Average
+221,1,Average
+222,1,Average
+223,2,High Performer
+224,0,At-Risk
+225,2,High Performer
+226,1,Average
+227,2,High Performer
+228,2,High Performer
+229,0,At-Risk
+230,1,Average
+231,2,High Performer
+232,1,Average
+233,2,High Performer
+234,2,High Performer
+235,1,Average
+236,1,Average
+237,0,At-Risk
+238,1,Average
+239,1,Average
+240,0,At-Risk
+241,2,High Performer
+242,2,High Performer
+243,0,At-Risk
+244,2,High Performer
+245,1,Average
+246,2,High Performer
+247,1,Average
+248,0,At-Risk
+249,0,At-Risk
+250,1,Average
+251,0,At-Risk
+252,1,Average
+253,0,At-Risk
+254,1,Average
+255,0,At-Risk
+256,0,At-Risk
+257,2,High Performer
+258,2,High Performer
+259,1,Average
+260,1,Average
+261,2,High Performer
+262,2,High Performer
+263,1,Average
+264,1,Average
+265,1,Average
+266,2,High Performer
+267,0,At-Risk
+268,2,High Performer
+269,0,At-Risk
+270,0,At-Risk
+271,0,At-Risk
+272,2,High Performer
+273,1,Average
+274,1,Average
+275,2,High Performer
+276,0,At-Risk
+277,0,At-Risk
+278,0,At-Risk
+279,2,High Performer
+280,2,High Performer
+281,0,At-Risk
+282,0,At-Risk
+283,1,Average
+284,1,Average
+285,1,Average
+286,1,Average
+287,2,High Performer
+288,1,Average
+289,1,Average
+290,2,High Performer
+291,2,High Performer
+292,2,High Performer
+293,1,Average
+294,1,Average
+295,2,High Performer
+296,2,High Performer
+297,2,High Performer
+298,2,High Performer
+299,2,High Performer
+300,2,High Performer
+301,2,High Performer
+302,2,High Performer
+303,2,High Performer
+304,2,High Performer
+305,2,High Performer
+306,2,High Performer
+307,2,High Performer
+308,0,At-Risk
+309,2,High Performer
+310,0,At-Risk
+311,1,Average
+312,1,Average
+313,1,Average
+314,1,Average
+315,1,Average
+316,1,Average
+317,1,Average
+318,2,High Performer
+319,2,High Performer
+320,2,High Performer
+321,2,High Performer
+322,1,Average
+323,1,Average
+324,2,High Performer
+325,1,Average
+326,2,High Performer
+327,0,At-Risk
+328,0,At-Risk
+329,2,High Performer
+330,2,High Performer
+331,0,At-Risk
+332,2,High Performer
+333,1,Average
+334,1,Average
+335,1,Average
+336,2,High Performer
+337,1,Average
+338,1,Average
+339,2,High Performer
+340,1,Average
+341,1,Average
+342,2,High Performer
+343,2,High Performer
+344,1,Average
+345,1,Average
+346,2,High Performer
+347,2,High Performer
+348,2,High Performer
+349,2,High Performer
+350,0,At-Risk
+351,0,At-Risk
+352,2,High Performer
+353,0,At-Risk
+354,0,At-Risk
+355,2,High Performer
+356,1,Average
+357,2,High Performer
+358,1,Average
+359,1,Average
+360,1,Average
+361,1,Average
+362,0,At-Risk
+363,2,High Performer
+364,2,High Performer
+365,1,Average
+366,1,Average
+367,2,High Performer
+368,1,Average
+369,1,Average
+370,2,High Performer
+371,1,Average
+372,0,At-Risk
+373,1,Average
+374,0,At-Risk
+375,2,High Performer
+376,1,Average
+377,2,High Performer
+378,0,At-Risk
+379,2,High Performer
+380,0,At-Risk
+381,2,High Performer
+382,0,At-Risk
+383,1,Average
+384,1,Average
+385,0,At-Risk
+386,1,Average
+387,0,At-Risk
+388,1,Average
+389,1,Average
+390,1,Average
+391,0,At-Risk
+392,0,At-Risk
+393,0,At-Risk
+394,0,At-Risk
+395,0,At-Risk
+396,1,Average
+397,1,Average
+398,1,Average
+399,2,High Performer
+400,1,Average
+401,2,High Performer
+402,1,Average
+403,2,High Performer
+404,2,High Performer
+405,2,High Performer
+406,2,High Performer
+407,1,Average
+408,2,High Performer
+409,2,High Performer
+410,2,High Performer
+411,2,High Performer
+412,2,High Performer
+413,2,High Performer
+414,0,At-Risk
+415,2,High Performer
+416,2,High Performer
+417,2,High Performer
+418,2,High Performer
+419,0,At-Risk
+420,2,High Performer
+421,1,Average
+422,1,Average
+423,2,High Performer
+424,2,High Performer
+425,0,At-Risk
+426,2,High Performer
+427,2,High Performer
+428,2,High Performer
+429,2,High Performer
+430,2,High Performer
+431,1,Average
+432,2,High Performer
+433,2,High Performer
+434,2,High Performer
+435,1,Average
+436,1,Average
+437,2,High Performer
+438,2,High Performer
+439,1,Average
+440,1,Average
+441,2,High Performer
+442,2,High Performer
+443,2,High Performer
+444,1,Average
+445,2,High Performer
+446,2,High Performer
+447,2,High Performer
+448,0,At-Risk
+449,2,High Performer
+450,2,High Performer
+451,1,Average
+452,2,High Performer
+453,2,High Performer
+454,1,Average
+455,2,High Performer
+456,2,High Performer
+457,0,At-Risk
+458,1,Average
+459,2,High Performer
+460,2,High Performer
+461,2,High Performer
+462,2,High Performer
+463,1,Average
+464,1,Average
+465,2,High Performer
+466,1,Average
+467,2,High Performer
+468,1,Average
+469,1,Average
+470,2,High Performer
+471,2,High Performer
+472,1,Average
+473,1,Average
+474,0,At-Risk
+475,2,High Performer
+476,1,Average
+477,1,Average
+478,2,High Performer
+479,1,Average
+480,1,Average
+481,2,High Performer
+482,1,Average
+483,2,High Performer
+484,1,Average
+485,0,At-Risk
+486,2,High Performer
+487,2,High Performer
+488,1,Average
+489,2,High Performer
+490,1,Average
+491,1,Average
+492,2,High Performer
+493,1,Average
+494,2,High Performer
+495,2,High Performer
+496,0,At-Risk
+497,2,High Performer
+498,2,High Performer
+499,2,High Performer
+500,2,High Performer
+501,1,Average
+502,1,Average
+503,2,High Performer
+504,2,High Performer
+505,2,High Performer
+506,2,High Performer
+507,2,High Performer
+508,1,Average
+509,2,High Performer
+510,1,Average
+511,2,High Performer
+512,2,High Performer
+513,2,High Performer
+514,0,At-Risk
+515,2,High Performer
+516,1,Average
+517,2,High Performer
+518,2,High Performer
+519,2,High Performer
+520,1,Average
+521,0,At-Risk
+522,2,High Performer
+523,1,Average
+524,2,High Performer
+525,2,High Performer
+526,2,High Performer
+527,0,At-Risk
+528,1,Average
+529,1,Average
+530,1,Average
+531,2,High Performer
+532,1,Average
+533,1,Average
+534,2,High Performer
+535,2,High Performer
+536,0,At-Risk
+537,1,Average
+538,0,At-Risk
+539,0,At-Risk
+540,1,Average
+541,1,Average
+542,1,Average
+543,2,High Performer
+544,1,Average
+545,2,High Performer
+546,1,Average
+547,2,High Performer
+548,1,Average
+549,2,High Performer
+550,0,At-Risk
+551,0,At-Risk
+552,1,Average
+553,1,Average
+554,1,Average
+555,1,Average
+556,1,Average
+557,0,At-Risk
+558,0,At-Risk
+559,0,At-Risk
+560,0,At-Risk
+561,2,High Performer
+562,0,At-Risk
+563,2,High Performer
+564,1,Average
+565,0,At-Risk
+566,0,At-Risk
+567,1,Average
+568,0,At-Risk
+569,0,At-Risk
+570,0,At-Risk
+571,0,At-Risk
+572,0,At-Risk
+573,0,At-Risk
+574,0,At-Risk
+575,0,At-Risk
+576,0,At-Risk
+577,2,High Performer
+578,1,Average
+579,2,High Performer
+580,0,At-Risk
+581,1,Average
+582,2,High Performer
+583,2,High Performer
+584,2,High Performer
+585,0,At-Risk
+586,2,High Performer
+587,2,High Performer
+588,0,At-Risk
+589,2,High Performer
+590,2,High Performer
+591,2,High Performer
+592,2,High Performer
+593,2,High Performer
+594,2,High Performer
+595,2,High Performer
+596,1,Average
+597,1,Average
+598,2,High Performer
+599,1,Average
+600,2,High Performer
+601,1,Average
+602,0,At-Risk
+603,0,At-Risk
+604,2,High Performer
+605,2,High Performer
+606,2,High Performer
+607,0,At-Risk
+608,2,High Performer
+609,2,High Performer
+610,2,High Performer
+611,1,Average
+612,1,Average
+613,1,Average
+614,2,High Performer
+615,0,At-Risk
+616,1,Average
+617,2,High Performer
+618,1,Average
+619,2,High Performer
+620,2,High Performer
+621,0,At-Risk
+622,1,Average
+623,0,At-Risk
+624,2,High Performer
+625,2,High Performer
+626,0,At-Risk
+627,0,At-Risk
+628,1,Average
+629,1,Average
+630,1,Average
+631,1,Average
+632,2,High Performer
+633,0,At-Risk
+634,2,High Performer
+635,1,Average
+636,2,High Performer
+637,1,Average
+638,0,At-Risk
+639,1,Average
+640,2,High Performer
+641,1,Average
+642,2,High Performer
+643,2,High Performer
+644,1,Average
+645,2,High Performer
+646,0,At-Risk
+647,1,Average
+648,2,High Performer
+649,1,Average
+650,1,Average
+651,1,Average
+652,0,At-Risk
+653,2,High Performer
+654,1,Average
+655,1,Average
+656,0,At-Risk
+657,1,Average
+658,0,At-Risk
+659,0,At-Risk
+660,1,Average
+661,1,Average
+662,2,High Performer
+663,2,High Performer
+664,2,High Performer
+665,2,High Performer
+666,2,High Performer
+667,2,High Performer
+668,1,Average
+669,2,High Performer
+670,1,Average
+671,1,Average
+672,1,Average
+673,1,Average
+674,1,Average
+675,0,At-Risk
+676,2,High Performer
+677,1,Average
+678,0,At-Risk
+679,2,High Performer
+680,0,At-Risk
+681,1,Average
+682,1,Average
+683,1,Average
+684,1,Average
+685,2,High Performer
+686,1,Average
+687,0,At-Risk
+688,2,High Performer
+689,1,Average
+690,1,Average
+691,2,High Performer
+692,1,Average
+693,1,Average
+694,1,Average
+695,1,Average
+696,2,High Performer
+697,2,High Performer
+698,1,Average
+699,2,High Performer
+700,1,Average
+701,0,At-Risk
+702,2,High Performer
+703,0,At-Risk
+704,2,High Performer
+705,2,High Performer
+706,0,At-Risk
+707,0,At-Risk
+708,2,High Performer
+709,1,Average
+710,1,Average
+711,1,Average
+712,2,High Performer
+713,0,At-Risk
+714,1,Average
+715,2,High Performer
+716,2,High Performer
+717,1,Average
+718,0,At-Risk
+719,2,High Performer
+720,0,At-Risk
+721,0,At-Risk
+722,0,At-Risk
+723,1,Average
+724,1,Average
+725,1,Average
+726,1,Average
+727,1,Average
+728,2,High Performer
+729,1,Average
+730,1,Average
+731,2,High Performer
+732,2,High Performer
+733,2,High Performer
+734,1,Average
+735,2,High Performer
+736,2,High Performer
+737,2,High Performer
+738,2,High Performer
+739,2,High Performer
+740,2,High Performer
+741,2,High Performer
+742,2,High Performer
+743,2,High Performer
+744,2,High Performer
+745,2,High Performer
+746,1,Average
+747,1,Average
+748,1,Average
+749,1,Average
+750,1,Average
+751,1,Average
+752,2,High Performer
+753,2,High Performer
+754,2,High Performer
+755,2,High Performer
+756,2,High Performer
+757,2,High Performer
+758,2,High Performer
+759,2,High Performer
+760,2,High Performer
+761,2,High Performer
+762,2,High Performer
+763,1,Average
+764,0,At-Risk
+765,0,At-Risk
+766,1,Average
+767,0,At-Risk
+768,1,Average
+769,1,Average
+770,2,High Performer
+771,1,Average
+772,1,Average
+773,2,High Performer
+774,2,High Performer
+775,0,At-Risk
+776,2,High Performer
+777,2,High Performer
+778,0,At-Risk
+779,0,At-Risk
+780,1,Average
+781,1,Average
+782,2,High Performer
+783,2,High Performer
+784,2,High Performer
+785,1,Average
+786,1,Average
+787,2,High Performer
+788,2,High Performer
+789,2,High Performer
+790,2,High Performer
+791,2,High Performer
+792,2,High Performer
+793,1,Average
+794,1,Average
+795,2,High Performer
+796,2,High Performer
+797,2,High Performer
+798,2,High Performer
+799,1,Average
+800,0,At-Risk
+801,0,At-Risk
+802,1,Average
+803,2,High Performer
+804,0,At-Risk
+805,2,High Performer
+806,2,High Performer
+807,2,High Performer
+808,2,High Performer
+809,0,At-Risk
+810,1,Average
+811,0,At-Risk
+812,2,High Performer
+813,2,High Performer
+814,0,At-Risk
+815,0,At-Risk
+816,2,High Performer
+817,1,Average
+818,1,Average
+819,0,At-Risk
+820,1,Average
+821,1,Average
+822,0,At-Risk
+823,2,High Performer
+824,1,Average
+825,2,High Performer
+826,1,Average
+827,1,Average
+828,0,At-Risk
+829,2,High Performer
+830,1,Average
+831,1,Average
+832,1,Average
+833,1,Average
+834,0,At-Risk
+835,2,High Performer
+836,0,At-Risk
+837,0,At-Risk
+838,2,High Performer
+839,1,Average
+840,2,High Performer
+841,0,At-Risk
+842,2,High Performer
+843,0,At-Risk
+844,2,High Performer
+845,1,Average
+846,2,High Performer
+847,1,Average
+848,1,Average
+849,1,Average
+850,1,Average
+851,1,Average
+852,1,Average
+853,0,At-Risk
+854,1,Average
+855,1,Average
+856,1,Average
+857,1,Average
+858,1,Average
+859,1,Average
+860,0,At-Risk
+861,0,At-Risk
+862,1,Average
+863,1,Average
+864,1,Average
+865,2,High Performer
+866,2,High Performer
+867,1,Average
+868,1,Average
+869,0,At-Risk
+870,0,At-Risk
+871,1,Average
+872,1,Average
+873,2,High Performer
+874,1,Average
+875,1,Average
+876,0,At-Risk
+877,1,Average
+878,1,Average
+879,0,At-Risk
+880,1,Average
+881,1,Average
+882,0,At-Risk
+883,1,Average
+884,1,Average
+885,0,At-Risk
+886,1,Average
+887,0,At-Risk
+888,1,Average
+889,0,At-Risk
+890,0,At-Risk
+891,2,High Performer
+892,1,Average
+893,0,At-Risk
+894,1,Average
+895,1,Average
+896,0,At-Risk
+897,2,High Performer
+898,0,At-Risk
+899,1,Average
+900,1,Average
+901,1,Average
+902,0,At-Risk
+903,1,Average
+904,0,At-Risk
+905,1,Average
+906,1,Average
+907,1,Average
+908,1,Average
+909,1,Average
+910,1,Average
+911,1,Average
+912,2,High Performer
+913,1,Average
+914,1,Average
+915,1,Average
+916,1,Average
+917,1,Average
+918,2,High Performer
+919,0,At-Risk
+920,1,Average
+921,2,High Performer
+922,2,High Performer
+923,1,Average
+924,1,Average
+925,2,High Performer
+926,0,At-Risk
+927,1,Average
+928,1,Average
+929,1,Average
+930,2,High Performer
+931,1,Average
+932,1,Average
+933,1,Average
+934,1,Average
+935,1,Average
+936,1,Average
+937,1,Average
+938,2,High Performer
+939,0,At-Risk
+940,1,Average
+941,0,At-Risk
+942,2,High Performer
+943,1,Average
+944,1,Average
+945,2,High Performer
+946,1,Average
+947,2,High Performer
+948,0,At-Risk
+949,1,Average
+950,0,At-Risk
+951,1,Average
+952,0,At-Risk
+953,0,At-Risk
+954,0,At-Risk
+955,1,Average
+956,0,At-Risk
+957,1,Average
+958,1,Average
+959,1,Average
+960,0,At-Risk
+961,0,At-Risk
+962,0,At-Risk
+963,0,At-Risk
+964,1,Average
+965,0,At-Risk
+966,0,At-Risk
+967,0,At-Risk
+968,0,At-Risk
+969,1,Average
+970,0,At-Risk
+971,0,At-Risk
+972,0,At-Risk
+973,0,At-Risk
+974,0,At-Risk
+975,0,At-Risk
+976,0,At-Risk
+977,1,Average
+978,0,At-Risk
+979,0,At-Risk
+980,1,Average
+981,1,Average
+982,0,At-Risk
+983,1,Average
+984,1,Average
+985,1,Average
+986,0,At-Risk
+987,1,Average
+988,2,High Performer
+989,1,Average
+990,2,High Performer
+991,2,High Performer
+992,2,High Performer
+993,1,Average
+994,0,At-Risk
+995,2,High Performer
+996,0,At-Risk
+997,1,Average
+998,1,Average
+999,1,Average
+1000,1,Average
+1001,0,At-Risk
+1002,2,High Performer
+1003,1,Average
+1004,1,Average
+1005,1,Average
+1006,0,At-Risk
+1007,1,Average
+1008,2,High Performer
+1009,1,Average
+1010,2,High Performer
+1011,1,Average
+1012,1,Average
+1013,1,Average
+1014,1,Average
+1015,2,High Performer
+1016,2,High Performer
+1017,1,Average
+1018,1,Average
+1019,2,High Performer
+1020,1,Average
+1021,1,Average
+1022,0,At-Risk
+1023,0,At-Risk
+1024,1,Average
+1025,0,At-Risk
+1026,2,High Performer
+1027,1,Average
+1028,1,Average
+1029,2,High Performer
+1030,2,High Performer
+1031,0,At-Risk
+1032,2,High Performer
+1033,0,At-Risk
+1034,2,High Performer
+1035,1,Average
+1036,0,At-Risk
+1037,1,Average
+1038,2,High Performer
+1039,0,At-Risk
+1040,1,Average
+1041,2,High Performer
+1042,1,Average
+1043,0,At-Risk
+1044,0,At-Risk
